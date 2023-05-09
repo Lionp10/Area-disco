@@ -1,0 +1,197 @@
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.AssemblyReference.cache
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.SuggestedBindingRedirects.cache
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmAcceso.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.AssemblyReference.cache
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.SuggestedBindingRedirects.cache
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmAcceso.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmBienvenida.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.dll
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\WinFormAnimation.dll
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.dll
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.xml
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.xml
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmBienvenida.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CopyComplete
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmUserCajero.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\frmAcceso.resx
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\frmBienvenida.resx
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\frmUserCajero.resx
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\frmAcceso.resx
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\frmBienvenida.resx
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\frmUserCajero.resx
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\WinFormAnimation.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.xml
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.xml
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPerfilUsuario.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmUserCajero.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CopyComplete
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPrincipal.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPrincipal.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPerfilUsuario.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLogin.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmIniciarSesion.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLoginQR.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLoginQR.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmIniciarSesion.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLogin.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaDance.resources
+C:\Lionel\Otras Cosas\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmMenuCajas.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaDance.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmMenuCajas.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmSelBarman.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaVip.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmNombreBarman.resources
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.prueba.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\frmAcceso.resx
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\frmBienvenida.resx
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\frmUserCajero.resx
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\WinFormAnimation.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.xml
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.xml
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.AssemblyReference.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.SuggestedBindingRedirects.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmAcceso.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLoginQR.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmBienvenida.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaDance.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaVip.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmIniciarSesion.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLogin.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmMenuCajas.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmNombreBarman.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPerfilUsuario.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPrincipal.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmSelBarman.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmUserCajero.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.prueba.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CopyComplete
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\frmAcceso.resx
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\frmBienvenida.resx
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\frmUserCajero.resx
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.dll
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\WinFormAnimation.dll
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.dll
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.dll
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.xml
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.pdb
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.xml
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.AssemblyReference.cache
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmAcceso.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLoginQR.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmBienvenida.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaDance.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaVip.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmIniciarSesion.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLogin.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmMenuCajas.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmNombreBarman.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPerfilUsuario.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPrincipal.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmSelBarman.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmUserCajero.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.prueba.resources
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CopyComplete
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+C:\sistemaArea\Viejas\VIEJA LIO FAMILIAS\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
+D:\Lionel\Proyecto 23\Area\Sistema\sistemaArea\sistemaArea\obj\Debug\sistemaArea.AgregarProductos.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\frmAcceso.resx
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\frmBienvenida.resx
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\frmUserCajero.resx
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe.config
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\sistemaArea.exe
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\sistemaArea.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\WinFormAnimation.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\CircularProgressBar.xml
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Core.xml
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.AssemblyReference.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.SuggestedBindingRedirects.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.AgregarProductos.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmAcceso.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLoginQR.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmBienvenida.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaDance.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmCajaVip.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmIniciarSesion.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmLogin.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmMenuCajas.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmNombreBarman.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPerfilUsuario.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmPrincipal.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmSelBarman.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.frmUserCajero.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.Properties.Resources.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.prueba.resources
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.GenerateResource.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CoreCompileInputs.cache
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.csproj.CopyComplete
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.exe
+C:\Lionel\Trabajo\Sist. Area - Pruebas\Sistema\Version2\sistemaArea\sistemaArea\obj\Debug\sistemaArea.pdb
